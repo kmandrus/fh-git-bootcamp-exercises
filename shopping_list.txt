@@ -7,3 +7,4 @@ Scuba Supplies
     Flippers
     Air Tank
     Mask
+    Wetsuit
