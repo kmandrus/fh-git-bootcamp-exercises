@@ -5,3 +5,5 @@ Snacks
 
 Scuba Supplies
     Flippers
+    Air Tank
+    Mask
