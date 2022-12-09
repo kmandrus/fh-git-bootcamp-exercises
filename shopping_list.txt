@@ -2,3 +2,6 @@ Snacks
     Gatorade
     Potato Chips
     Energy Bars
+
+Scuba Supplies
+    Flippers
